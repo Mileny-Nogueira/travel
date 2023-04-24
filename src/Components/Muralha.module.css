@@ -1,0 +1,10 @@
+.background{
+    height: 700px;
+    width: 100%;
+    background-image: url('./imagens/Muralha.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}

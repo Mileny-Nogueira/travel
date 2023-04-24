@@ -1,0 +1,33 @@
+.Header{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.containerLogo{
+    width: 150px;
+}
+.navegacao li{
+    float: left;
+    list-style: none;
+    margin: 0 20px;
+}
+
+.navegacao{
+    padding: 0;
+    margin: 0;
+}
+
+.busca input{
+    padding: 7px 0 7px 50px;
+    width: 150px;
+    height: 100%;
+    border-radius: 50px;
+    border: 1px solid #6d6d6d;
+    color: #707070;
+    background-image: url('./imagens/busca.png');
+    background-repeat: no-repeat;
+}
+
